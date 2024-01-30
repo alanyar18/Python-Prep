@@ -7,14 +7,14 @@
 
 # In[7]:
 
-
+a=41
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
 
-
+type(41)
 
 
 
@@ -23,7 +23,7 @@
 # In[8]:
 
 
-
+print(type(a) 
 
 
 # 4) Crear una variable que contenga tu nombre
